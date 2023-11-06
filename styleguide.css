@@ -1,0 +1,20 @@
+:root {
+  --neutral-600: rgba(111, 108, 144, 1);
+  --neutral-800: rgba(23, 15, 73, 1);
+  --neutral-100: rgba(255, 255, 255, 1);
+  --neutral-colors-800: rgba(33, 31, 84, 1);
+  --primary-colorscolor-1: rgba(74, 58, 255, 1);
+  --neutral-colors-100: rgba(255, 255, 255, 1);
+  --text-single-200-regular-font-family: "DMSans-Regular", Helvetica;
+  --text-single-200-regular-font-weight: 400;
+  --text-single-200-regular-font-size: 18px;
+  --text-single-200-regular-letter-spacing: 0px;
+  --text-single-200-regular-line-height: 20px;
+  --text-single-200-regular-font-style: normal;
+  --text-single-200-bold-font-family: "DMSans-Bold", Helvetica;
+  --text-single-200-bold-font-weight: 700;
+  --text-single-200-bold-font-size: 18px;
+  --text-single-200-bold-letter-spacing: 0px;
+  --text-single-200-bold-line-height: 20px;
+  --text-single-200-bold-font-style: normal;
+}
